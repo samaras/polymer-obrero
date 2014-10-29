@@ -1,0 +1,24 @@
+{
+  "name": "polymer-obrero",
+  "version": "0.0.0",
+  "homepage": "https://github.com/samaras/polymer-obrero",
+  "description": "Polymer Single Page App",
+  "main": "index.html",
+  "dependencies": {
+	"polymer": "Polymer/polymer#~0.4.2"
+  },
+  "keywords": [
+    "polymer"
+  ],
+  "authors": [
+    "Samuel Komfi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
